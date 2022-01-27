@@ -1,0 +1,14 @@
+Data Discription 
+
+
+ID: 
+
+MSSubClass: The building class 
+
+MSZoning: The general zoning classification
+
+LotArea: Lot size in square feet 
+
+SaleCondition: Condition of sale
+
+Sale Price: Dependent Variable 
